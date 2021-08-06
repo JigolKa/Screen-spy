@@ -1,5 +1,5 @@
 # Screen-spy
-With this script, you can take a screenshot from a computer and send it to an email address
+With this code, you can take a screenshot from a computer and send it to an email address
 
 ![Demonstration](https://raw.githubusercontent.com/JigolKa/Screen-spy/main/demonstration.png)
 
